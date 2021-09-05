@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning about software systems and computer systems in school!
+- 🔭 I’m currently working on learning about web dev in my spare time 
+- ⚡ Check out my website! https://tessgompper.netlify.app/ 
 
 <!--
 **tgompper1/tgompper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
