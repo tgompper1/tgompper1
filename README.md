@@ -1,6 +1,6 @@
 ### Welcome 👩‍💻
 
-I am a second year student at McGill Univerity majoring in Computer Science. I am minoring in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
+I am a third year student at McGill Univerity majoring in Computer Science. I am minoring in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning about software design and algorithms and data structures!
