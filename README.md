@@ -5,6 +5,7 @@ I am a third year student at McGill Univerity majoring in Computer Science. I am
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning about functional programming, operating systems, the theory of computation, and probability!
 - ⚡ Check out my website! https://tessgompper.netlify.app/ 
+- 👯 Connect with me on LinkedIn! www.linkedin.com/in/tess-gompper/
 
 <!--
 **tgompper1/tgompper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
