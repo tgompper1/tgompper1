@@ -3,7 +3,7 @@
 I am a third year student at McGill Univerity majoring in Computer Science. I am minoring in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning about software design and algorithms and data structures!
+- 🌱 I’m currently learning about functional programming, operating systems, the theory of computation, and probability!
 - ⚡ Check out my website! https://tessgompper.netlify.app/ 
 
 <!--
