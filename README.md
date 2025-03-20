@@ -1,10 +1,10 @@
 ### Welcome 👩‍💻
 
-I am a fourth year student at McGill Univerity majoring in Computer Science. I am minoring in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
+I am a recent graduate from McGill Univerity with a major in Computer Science. I minored in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning about LLMs, Natural Language to Data Science, and Computers and Society!
-- ⚡ Check out my website! https://tessgompper.netlify.app/ 
+- 🌱 I’m currently looking for roles in software or data engineering!
+- ⚡ Check out my website! tgompper1.github.io
 - 👯 Connect with me on LinkedIn! www.linkedin.com/in/tess-gompper/
 
 <!--
