@@ -1,9 +1,8 @@
 ### Welcome 👩‍💻
 
-I am a recent graduate from McGill Univerity with a major in Computer Science. I minored in Communications Studies to gain an understanding of the impact of communication technologies on people throughout history!
+I am a McGill University graduate with 2yoe in software engineering. 
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently looking for roles in software or data engineering!
 - ⚡ Check out my website! tgompper1.github.io
 - 👯 Connect with me on LinkedIn! www.linkedin.com/in/tess-gompper/
 
